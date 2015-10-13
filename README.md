@@ -1,4 +1,4 @@
-Synopsis
+##Synopsis
 
 A simple scala program.
 
