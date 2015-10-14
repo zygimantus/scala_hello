@@ -33,7 +33,7 @@ $ sbt
 
 To run use:
 ``
-> run
+run
 ``
 
 ## API Reference
