@@ -24,6 +24,18 @@ To run use:
 $ scala HelloWorld
 ``
 
+### Alternative (using sbt)
+
+Run in  a project root directory:
+``
+$ sbt
+``
+
+To run use:
+``
+> run
+``
+
 ## API Reference
 
 
